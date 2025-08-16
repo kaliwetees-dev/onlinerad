@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Love Radio",
+        "currentSong": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Love_Radio_2021_logo.png",
+        "streamingUrl": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+        "genre": "Pop"
+    },
+    {
+        "id": "2",
+        "name": "Easy Rock Manila",
+        "currentSong": "",
+        "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/j32PnqrN5L.jpg",
+        "streamingUrl": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+        "genre": "Chill Out"
+    },
+    {
+        "id": "3",
+        "name": "Easy Rock Boracay",
+        "currentSong": "",
+        "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/j32PnqrN5L.jpg",
+        "streamingUrl": "https://easyrockboracay.radioca.st/;",
+        "genre": "Pop"
+    },
+    {
+        "id": "4",
+        "name": "Energy FM Manila",
+        "currentSong": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Energy_FM_logo.png",
+        "streamingUrl": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+        "genre": "Rock"
+    },
+    {
+        "id": "5",
+        "name": "W Rock Cebu",
+        "currentSong": "",
+        "logoUrl": "https://i1.sndcdn.com/artworks-LMzzdCF2XHfGMy9U-LRss5A-t1080x1080.jpg",
+        "streamingUrl": "https://wrockceb-iradioph.radioca.st/;",
+        "genre": "Dance"
+    },
+    {
+        "id": "6",
+        "name": "Yes FM Manila",
+        "currentSong": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/YesFMManila2024.png/250px-YesFMManila2024.png",
+        "streamingUrl": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+        "genre": "Top 40"
+    },
+    {
+        "id": "7",
+        "name": "Yes FM CDO",
+        "currentSong": "",
+        "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/702/yes-fm-cagayan-de-oro-1047.ae3600e7.jpg",
+        "streamingUrl": "https://yesfmcdo.radioca.st/;",
+        "genre": "Classic"
+    },
+    {
+        "id": "8",
+        "name": "I FM",
+        "currentSong": "",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/dd/e4/54dde455-6922-650a-0785-6c9a844663e7/source/512x512bb.jpg",
+        "streamingUrl": "https://magic.radioca.st/stream",
+        "genre": "Pop"
+    },
+    {
+        "id": "9",
+        "name": "BRGY LS",
+        "currentSong": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Barangay_LS_97.1_logo_2023.png/420px-Barangay_LS_97.1_logo_2023.png",
+        "streamingUrl": "https://stream.zeno.fm/dphe9050afhvv",
+        "genre": "Chill Out"
+    },
+    {
+        "id": "10",
+        "name": "STAR FM",
+        "currentSong": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png",
+        "streamingUrl": "https://stream-144.zeno.fm/69b1kf7q0y5tv",
+        "genre": "Pop"
+    }
+]
