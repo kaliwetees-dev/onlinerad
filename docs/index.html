@@ -680,19 +680,9 @@
             });
         }
 
-        // Initialize the app after the page is loaded
-        window.addEventListener('DOMContentLoaded', init);
-         function setupEventListeners() {
-            // Event listener for station card play buttons
-            stationsContainer.addEventListener('click', function(event) {
-                const button = event.target.closest('.card-btn');
-                if (button) {
-                    const index = parseInt(button.getAttribute('data-index'));
-                    playStation(index);
-                }
-            });
         
     </script>
 </body>
 </html>
+
 
